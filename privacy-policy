@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy - DavisDiet</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 { color: #2E7D32; }
+    h2 { color: #444; margin-top: 32px; }
+    p { margin-bottom: 16px; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for DavisDiet</h1>
+  <p><strong>Effective Date:</strong> May 6, 2025</p>
+  <p><strong>Last Updated:</strong> May 6, 2025</p>
+
+  <h2>1. Introduction</h2>
+  <p>Welcome to <strong>DavisDiet</strong>. We are committed to protecting your personal data and your right to privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our app.</p>
+
+  <h2>2. Information We Collect</h2>
+  <p>We collect the following information from users:</p>
+  <ul>
+    <li><strong>Personal Information:</strong> Name, email, phone number, gender, age</li>
+    <li><strong>Delivery Information:</strong> Address, city, pincode</li>
+    <li><strong>Device and Log Data:</strong> For crash reporting and analytics</li>
+    <li><strong>Usage Data:</strong> Plan selections, orders, and app activity</li>
+  </ul>
+
+  <h2>3. How We Use Your Information</h2>
+  <p>We use your data to:</p>
+  <ul>
+    <li>Create and manage your account</li>
+    <li>Process meal plan orders</li>
+    <li>Communicate delivery details</li>
+    <li>Improve app performance and customer support</li>
+    <li>Display personalized content (e.g., banners or meal recommendations)</li>
+  </ul>
+
+  <h2>4. Third-Party Services</h2>
+  <p>We use <strong>Google Firebase</strong> services:</p>
+  <ul>
+    <li>Firebase Authentication – For login/signup</li>
+    <li>Cloud Firestore – To store user and order data</li>
+    <li>Firebase Storage – To store meal and banner images</li>
+  </ul>
+  <p>These services may collect device identifiers, IP addresses, and usage data. Their use is governed by <a href="https://policies.google.com/privacy" target="_blank">Google’s Privacy Policy</a>.</p>
+
+  <h2>5. Data Retention</h2>
+  <p>We retain your data for as long as your account is active or as needed to provide services. You may request data deletion by contacting us.</p>
+
+  <h2>6. Security</h2>
+  <p>We implement industry-standard measures to protect your data. However, no method of transmission over the internet is 100% secure.</p>
+
+  <h2>7. User Rights</h2>
+  <p>You have the right to:</p>
+  <ul>
+    <li>Access the information we hold about you</li>
+    <li>Request correction or deletion of your data</li>
+    <li>Withdraw consent at any time (may limit app usage)</li>
+  </ul>
+
+  <h2>8. Children’s Privacy</h2>
+  <p>We do not knowingly collect data from individuals under 13 years old. If we learn that a child has provided personal data, we will delete it.</p>
+
+  <h2>9. Changes to This Policy</h2>
+  <p>We may update this policy from time to time. Changes will be posted within the app and/or on our website.</p>
+
+  <h2>10. Contact Us</h2>
+  <p><strong>DavisDiet</strong><br/>
+  Email: customercaret@davisdiet.com<br/>
+  Phone: +91 9074211477<br/>
+  Address: 1st Floor, MS complex Eduppukulm Post, Palakkad, Kerala - 678622</p>
+</body>
+</html>
